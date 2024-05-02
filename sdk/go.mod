@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-xyz/sdk
+module github.com/kzmake/pulumi-scalebase/sdk
 
 go 1.17

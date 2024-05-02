@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/provider
+module github.com/kzmake/pulumi-scalebase/provider
 
 go 1.21
 
